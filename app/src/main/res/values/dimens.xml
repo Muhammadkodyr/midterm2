@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="s17">17sp</dimen>
+    <dimen name="s27">27sp</dimen>
+</resources>

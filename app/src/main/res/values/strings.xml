@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">midterm2yuldashov</string>
+    <string name="home">Home</string>
+    <string name="forpic">forpic</string>
+    <string name="michael">Michael Staub</string>
+    <string name="created_a_pod_for">created a pod for</string>
+    <string name="five_minutes_ago">five minutes ago</string>
+    <string name="deep_dive_into_chatbot_training_best_practices">Deep Dive into Chatbot Training Best Practices</string>
+    <string name="more_details">More details</string>
+    <string name="thursday_january_10th_4_00_am">Thursday, January 10th, 4:00 am</string>
+    <string name="pivotal_labs_875_howard_st_san">Pivotal Labs, 875 Howard St., San…</string>
+    <string name="show_map">Show map</string>
+    <string name="_3_pods_48_going_5_interested">3 Pods, 48 Going, 5 Interested</string>
+</resources>
